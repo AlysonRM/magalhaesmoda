@@ -1,0 +1,5 @@
+# Arquivos exemplos ou de outros sistemas
+_otherSystem/
+
+#Arquivo para conexão que não deve ser colocado no Git
+backend/conect.php
